@@ -25,8 +25,7 @@ Meu foco agora é me especializar ainda mais em Front-End e UI Design.
 
 - Site Megatelecom | Layout e Desenvolvimento | Wordpress - https://www.megatelecom.com.br/
 - Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/
-- Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/
-- Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/          
+- Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/    
 - Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix - https://www.salesianorecife.com.br/
 - Site Alameda Café | Layout | Desenvovimento via Wix - https://www.alamedacafe.com.br/
 - Site eStracta | Layout | Desenvolvimento via Wix - https://www.estracta.com.br/
