@@ -32,6 +32,9 @@ Em seguida me foquei em me especializar ainda mais em Front-End e UI Design.
 - Site eStracta | Layout | Desenvolvimento via Wix - https://www.estracta.com.br/
 - Site Quantum4 | Layout | Desenvolvimento via Wix - https://www.quantum4.com.br/ 
 - Site Loop Cafe - Layout e Indentidade Visual | Desevolvimento via Wix - https://www.loop-cafe.com/
+- Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
+- Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
+- Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
        
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
