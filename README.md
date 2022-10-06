@@ -20,6 +20,12 @@ Em seguida me foquei em me especializar ainda mais em Front-End e UI Design.
 ### Softwares e Serviços
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+
+### Sites e Layouts que Desenvolvi
+
+- Site Megatelecom | Layout e Desenvolvimento - https://www.megatelecom.com.br/
+- Site Firy | Apenas Desenvolvimento - https://firy.com.br/
+- Site Evotelecom | Layout e Desenvolvimento - https://evotelecom.com.br/
           
           
 <!--
