@@ -21,7 +21,7 @@ Meu foco agora é me especializar ainda mais em Front-End e UI Design.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 
-### Sites e Layouts que Desenvolvi
+### Sites e Layouts que Desenvolvi com HTML, CSS e JS | Wordpress | Wix
 
 - Site Megatelecom | Layout e Desenvolvimento | Wordpress - https://www.megatelecom.com.br/
 - Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/
@@ -34,7 +34,9 @@ Meu foco agora é me especializar ainda mais em Front-End e UI Design.
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
 - Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
-       
+
+### Projetos com ReactJS -> Veja meus Repositorios <a href="https://github.com/DanMarq?tab=repositories">(link)</a>
+
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
