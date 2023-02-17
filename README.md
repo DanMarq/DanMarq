@@ -1,12 +1,9 @@
 ### 👋 Olá, eu sou o Danilo Marques
 
-sou um Desenvolvedor Web focado em Front-End com conhecimentos em Web Design, Design Digital, Marketing e UI Design.
-Trabalhei por alguns anos em uma Agencia Digital onde minhas principais atividades eram com midias sociais, marketing e principalmente com Desenvolvimento Web em HTML5 e CSS3 e com programação em JS, PHP e SQL.
+sou um Desenvolvedor Front End focado em desenvolvimento web e aplicações. Trabalho com ReactJs e tenho famliaridade com o Vue.
+Possuo conhecimentos aprimorados em HTML, CSS e Javascrito, juntamente carregando uma bagagem de apredizando em Web Design, Design Digital, Marketing e UI/UX Design.
 
-Meu foco agora é me especializar ainda mais em Front-End e UI Design.
-
-- 🔭 Atualmente estou procurando emprego como desenvolvedor front-end Júnior ou Web Designer.
-- 🌱 Estou estudando atualmente React, NextJs
+- 🔭 Atualmente estou procurando emprego como desenvolvedor front-end Júnior ou Pleno.
 - 📫 Como entrar em contato comigo: Linkedin - https://www.linkedin.com/in/danilo-marques92/
 
 ### Linguagens
