@@ -32,7 +32,7 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascrito, juntamente carregand
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
 - Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
 
-### Projetos com ReactJS -> Veja meus Repositorios <a href="https://github.com/DanMarq?tab=repositories">(link)</a>
+### Projetos Front End com React ou Vue -> Veja meus Repositorios <a href="https://github.com/DanMarq?tab=repositories">(link)</a>
 
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
