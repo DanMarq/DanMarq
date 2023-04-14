@@ -18,21 +18,19 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascrito, juntamente carregand
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 
-### Sites e Layouts que Desenvolvi com HTML, CSS e JS | Wordpress | Wix
+### Sites e Layouts que Desenvolvi com HTML, CSS e JS | Wordpress
 
 - Site Megatelecom | Layout e Desenvolvimento | Wordpress - https://www.megatelecom.com.br/
 - Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/
 - Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/    
-- Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix - https://www.salesianorecife.com.br/
-- Site Alameda Café | Layout | Desenvovimento via Wix - https://www.alamedacafe.com.br/
-- Site eStracta | Layout | Desenvolvimento via Wix - https://www.estracta.com.br/
-- Site Quantum4 | Layout | Desenvolvimento via Wix - https://www.quantum4.com.br/ 
-- Site Loop Cafe - Layout e Indentidade Visual | Desevolvimento via Wix - https://www.loop-cafe.com/
+- Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.salesianorecife.com.br/
+- Site Alameda Café | Layout | Desenvovimento via Wix with Velo (suporte para JS) - https://www.alamedacafe.com.br/
+- Site Quantum4 | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.quantum4.com.br/ 
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
 - Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
 
-### Projetos Front End com React ou Vue -> Veja meus Repositorios --->> <a href="https://github.com/DanMarq?tab=repositories">(link)</a>
+## Projetos Front End com React ou Vue -> Veja meus Repositorios --->> <a href="https://github.com/DanMarq?tab=repositories">(link)</a>
 
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
