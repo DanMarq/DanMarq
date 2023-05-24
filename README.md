@@ -18,6 +18,9 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregand
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 
+## Projetos Front End com React ou Vue -> Veja meus Repositorios --->>
+<a href="https://github.com/DanMarq?tab=repositories">Visualizar Repositorios</a>
+
 ### Sites e Layouts que Desenvolvi com HTML, CSS e JS | Wordpress
 
 - Site Megatelecom | Layout e Desenvolvimento | Wordpress - https://www.megatelecom.com.br/
@@ -29,9 +32,6 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregand
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
 - Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
-
-## Projetos Front End com React ou Vue -> Veja meus Repositorios --->>
-<a href="https://github.com/DanMarq?tab=repositories">Visualizar Repositorios</a>
 
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
