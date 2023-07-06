@@ -28,7 +28,6 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregand
 - Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.salesianorecife.com.br/
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
-- Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
 
 <!--
 **DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
