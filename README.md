@@ -27,8 +27,6 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregand
 - Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/
 - Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/    
 - Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.salesianorecife.com.br/
-- Site Alameda Café | Layout | Desenvovimento via Wix with Velo (suporte para JS) - https://www.alamedacafe.com.br/
-- Site Quantum4 | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.quantum4.com.br/ 
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
 - Site Contrução Civil TT Builder | Layout e Desenvolvimento | Wordpress - https://tt-builder.com/
