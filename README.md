@@ -24,8 +24,7 @@ Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregand
 ### Sites e Layouts que Desenvolvi com HTML, CSS e JS | Wordpress
 
 - Site Megatelecom | Layout e Desenvolvimento | Wordpress - https://www.megatelecom.com.br/
-- Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/
-- Site Evotelecom | Layout e Desenvolvimento | Wordpress - https://evotelecom.com.br/    
+- Site Firy | Apenas Desenvolvimento | Wordpress - https://firy.com.br/  
 - Site Escola Salesiano Recife | Layout | Desenvolvimento via Wix with Velo (suporte para JS) - https://www.salesianorecife.com.br/
 - Site Dio Santo Pizzeria | Layout e Desenvolvimento | Wordpress - https://diosantopizzeria.com/
 - Site Agencia de Marketing Digital Sociedade Coletiva | Layout e Desenvolvimento | Wordpress - http://www.sociedadecoletiva.com.br/
