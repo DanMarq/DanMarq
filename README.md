@@ -1,26 +1,67 @@
-### 👋 Olá, eu sou o Danilo Marques
+# 👋 Olá, eu sou o Danilo Marques
 
-sou um Desenvolvedor Front End focado em desenvolvimento web e aplicações. Trabalho com ReactJs e tenho famliaridade com o Vue.
-Possuo conhecimentos aprimorados em HTML, CSS e Javascript, juntamente carregando uma bagagem de apredizando em Web Design, Design Digital, Marketing e UI/UX Design.
+💻 **Front-End Developer** focado em criar interfaces modernas, escaláveis e com alta performance.<br/>
+🚀 Especialista em **JavaScript e seu ecossistema** (React, Next.js e Vue.js).<br/>
+🎯 Apaixonado por **experiência do usuário, arquitetura de interfaces e boas práticas**
 
-- 🔭 Atualmente estou procurando emprego como desenvolvedor front-end Júnior ou Pleno.
-- 📫 Como entrar em contato comigo: Linkedin - https://www.linkedin.com/in/danilo-marques92/
+---
 
-### Linguagens
+## 🧠 Sobre mim
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+Sou desenvolvedor de sistemas com foco em Front-End, atuando na construção de aplicações eficientes e orientadas a resultados.
 
-### Frameworks/Bibliotecas
+Tenho experiência com:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50"/>
+* Integração de APIs
+* Arquitetura de componentes
+* Clean Code, SOLID e Design Patterns
 
-### Softwares e Serviços
+Além disso, possuo base em **UI/UX**, garantindo interfaces intuitivas e alinhadas aos objetivos do negócio.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+---
 
-## Projetos Front End com React ou Vue -> Veja meus Repositorios --->>
-<a href="https://github.com/DanMarq?tab=repositories">Visualizar Repositorios</a>
+## 🛠️ Tecnologias
 
-<!--
-**DanMarq/DanMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 💻 Linguagens
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+</p>
+
+### ⚙️ Frameworks & Libs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45"/>
+</p>
+
+### 🎨 Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## 📂 Projetos
+
+🚀 Veja meus projetos front-end com React e Vue:
+👉 https://github.com/DanMarq?tab=repositories
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn:
+👉 https://www.linkedin.com/in/danilo-marques92/
